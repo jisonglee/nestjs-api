@@ -1,0 +1,16 @@
+{
+  "name": "nest-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "request.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jisong Lee <jisonglee7@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "faker": "^5.4.0"
+  },
+  "type": "module"
+}
